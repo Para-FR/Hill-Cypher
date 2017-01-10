@@ -1,0 +1,9 @@
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+c:\users\thello\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Matrices.resources
